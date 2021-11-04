@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "20704648724",
+    "project_id": "flutter-demo-fabi",
+    "storage_bucket": "flutter-demo-fabi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20704648724:android:b32fd7deed46740036d101",
+        "android_client_info": {
+          "package_name": "com.fabi.example.bruh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20704648724-ma2je5hors423598i7gl2kks2279tr7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fabi.example.bruh",
+            "certificate_hash": "19c940f028c90fe0c0a31a685204cdcacbdbff5d"
+          }
+        },
+        {
+          "client_id": "20704648724-pu7a6unrf6keqrch77cchid6hfi4glj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIuK77oAmqhrAr73hf9xMk5OJDfH7csDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20704648724-pu7a6unrf6keqrch77cchid6hfi4glj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
